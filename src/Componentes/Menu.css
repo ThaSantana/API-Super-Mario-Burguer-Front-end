@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(225, 211, 238);
+}
+h1{
+    margin-top: 0%;
+    font-family: "Times New Roman", Times, serif;
+}
+.Menu{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+}
